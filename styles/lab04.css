@@ -75,6 +75,7 @@ ol ul li {
 }
 
 aside:hover {
+	display: none;
     border: 1px solid black;
     color: lightblue;
 }
