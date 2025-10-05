@@ -1,0 +1,80 @@
+/*
+
+filename: Ngo Gia Hy
+
+author: Ngo Gia Hy
+
+created: 5/10/2025
+
+last modified: 5/10/2025
+
+description: lab04.html
+
+*/
+
+body{
+
+}
+
+* { 
+	font-family: calibri, sans-serif; 
+	color: #2F4F4F;
+}
+
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+h2 {
+	color: rgb(0,128,128);
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+aside, footer { font-style: italic; }     
+
+h1, h2, h3 {
+	font-family: 'Arial', sans-serif;
+}
+
+table {
+	border: 1px solid black;  
+}
+
+table th, td {
+	border: 1px solid black;  
+}
+
+#images {
+	text-align: center;
+}
+
+#heading-3 {
+	color: red;
+}
+
+.special {
+    color: darkorange;
+    font-weight:bold;
+}      
+
+.month {
+	text-align: right;
+}
+
+nav a {
+    text-decoration: none;
+    padding:0.2em 0.6em;
+    border: 4px solid #ccc;
+}    
+
+ol ul li {
+	list-style: square;
+}
+
+aside:hover {
+    border: 1px solid black;
+    color: lightblue;
+}
